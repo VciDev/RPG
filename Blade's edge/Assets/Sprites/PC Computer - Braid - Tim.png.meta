@@ -1,0 +1,3615 @@
+fileFormatVersion: 2
+guid: 53b1ab948fca22644a29bdeaef0869b4
+timeCreated: 1454715073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Braid - Tim_0
+    21300002: PC Computer - Braid - Tim_1
+    21300004: PC Computer - Braid - Tim_2
+    21300006: PC Computer - Braid - Tim_3
+    21300008: PC Computer - Braid - Tim_4
+    21300010: PC Computer - Braid - Tim_5
+    21300012: PC Computer - Braid - Tim_6
+    21300014: PC Computer - Braid - Tim_7
+    21300016: PC Computer - Braid - Tim_8
+    21300018: PC Computer - Braid - Tim_9
+    21300020: PC Computer - Braid - Tim_10
+    21300022: PC Computer - Braid - Tim_11
+    21300024: PC Computer - Braid - Tim_12
+    21300026: PC Computer - Braid - Tim_13
+    21300028: PC Computer - Braid - Tim_14
+    21300030: PC Computer - Braid - Tim_15
+    21300032: PC Computer - Braid - Tim_16
+    21300034: PC Computer - Braid - Tim_17
+    21300036: PC Computer - Braid - Tim_18
+    21300038: PC Computer - Braid - Tim_19
+    21300040: PC Computer - Braid - Tim_20
+    21300042: PC Computer - Braid - Tim_21
+    21300044: PC Computer - Braid - Tim_22
+    21300046: PC Computer - Braid - Tim_23
+    21300048: PC Computer - Braid - Tim_24
+    21300050: PC Computer - Braid - Tim_25
+    21300052: PC Computer - Braid - Tim_26
+    21300054: PC Computer - Braid - Tim_27
+    21300056: PC Computer - Braid - Tim_28
+    21300058: PC Computer - Braid - Tim_29
+    21300060: PC Computer - Braid - Tim_30
+    21300062: PC Computer - Braid - Tim_31
+    21300064: PC Computer - Braid - Tim_32
+    21300066: PC Computer - Braid - Tim_33
+    21300068: PC Computer - Braid - Tim_34
+    21300070: PC Computer - Braid - Tim_35
+    21300072: PC Computer - Braid - Tim_36
+    21300074: PC Computer - Braid - Tim_37
+    21300076: PC Computer - Braid - Tim_38
+    21300078: PC Computer - Braid - Tim_39
+    21300080: PC Computer - Braid - Tim_40
+    21300082: PC Computer - Braid - Tim_41
+    21300084: PC Computer - Braid - Tim_42
+    21300086: PC Computer - Braid - Tim_43
+    21300088: PC Computer - Braid - Tim_44
+    21300090: PC Computer - Braid - Tim_45
+    21300092: PC Computer - Braid - Tim_46
+    21300094: PC Computer - Braid - Tim_47
+    21300096: PC Computer - Braid - Tim_48
+    21300098: PC Computer - Braid - Tim_49
+    21300100: PC Computer - Braid - Tim_50
+    21300102: PC Computer - Braid - Tim_51
+    21300104: PC Computer - Braid - Tim_52
+    21300106: PC Computer - Braid - Tim_53
+    21300108: PC Computer - Braid - Tim_54
+    21300110: PC Computer - Braid - Tim_55
+    21300112: PC Computer - Braid - Tim_56
+    21300114: PC Computer - Braid - Tim_57
+    21300116: PC Computer - Braid - Tim_58
+    21300118: PC Computer - Braid - Tim_59
+    21300120: PC Computer - Braid - Tim_60
+    21300122: PC Computer - Braid - Tim_61
+    21300124: PC Computer - Braid - Tim_62
+    21300126: PC Computer - Braid - Tim_63
+    21300128: PC Computer - Braid - Tim_64
+    21300130: PC Computer - Braid - Tim_65
+    21300132: PC Computer - Braid - Tim_66
+    21300134: PC Computer - Braid - Tim_67
+    21300136: PC Computer - Braid - Tim_68
+    21300138: PC Computer - Braid - Tim_69
+    21300140: PC Computer - Braid - Tim_70
+    21300142: PC Computer - Braid - Tim_71
+    21300144: PC Computer - Braid - Tim_72
+    21300146: PC Computer - Braid - Tim_73
+    21300148: PC Computer - Braid - Tim_74
+    21300150: PC Computer - Braid - Tim_75
+    21300152: PC Computer - Braid - Tim_76
+    21300154: PC Computer - Braid - Tim_77
+    21300156: PC Computer - Braid - Tim_78
+    21300158: PC Computer - Braid - Tim_79
+    21300160: PC Computer - Braid - Tim_80
+    21300162: PC Computer - Braid - Tim_81
+    21300164: PC Computer - Braid - Tim_82
+    21300166: PC Computer - Braid - Tim_83
+    21300168: PC Computer - Braid - Tim_84
+    21300170: PC Computer - Braid - Tim_85
+    21300172: PC Computer - Braid - Tim_86
+    21300174: PC Computer - Braid - Tim_87
+    21300176: PC Computer - Braid - Tim_88
+    21300178: PC Computer - Braid - Tim_89
+    21300180: PC Computer - Braid - Tim_90
+    21300182: PC Computer - Braid - Tim_91
+    21300184: PC Computer - Braid - Tim_92
+    21300186: PC Computer - Braid - Tim_93
+    21300188: PC Computer - Braid - Tim_94
+    21300190: PC Computer - Braid - Tim_95
+    21300192: PC Computer - Braid - Tim_96
+    21300194: PC Computer - Braid - Tim_97
+    21300196: PC Computer - Braid - Tim_98
+    21300198: PC Computer - Braid - Tim_99
+    21300200: PC Computer - Braid - Tim_100
+    21300202: PC Computer - Braid - Tim_101
+    21300204: PC Computer - Braid - Tim_102
+    21300206: PC Computer - Braid - Tim_103
+    21300208: PC Computer - Braid - Tim_104
+    21300210: PC Computer - Braid - Tim_105
+    21300212: PC Computer - Braid - Tim_106
+    21300214: PC Computer - Braid - Tim_107
+    21300216: PC Computer - Braid - Tim_108
+    21300218: PC Computer - Braid - Tim_109
+    21300220: PC Computer - Braid - Tim_110
+    21300222: PC Computer - Braid - Tim_111
+    21300224: PC Computer - Braid - Tim_112
+    21300226: PC Computer - Braid - Tim_113
+    21300228: PC Computer - Braid - Tim_114
+    21300230: PC Computer - Braid - Tim_115
+    21300232: PC Computer - Braid - Tim_116
+    21300234: PC Computer - Braid - Tim_117
+    21300236: PC Computer - Braid - Tim_118
+    21300238: PC Computer - Braid - Tim_119
+    21300240: PC Computer - Braid - Tim_120
+    21300242: PC Computer - Braid - Tim_121
+    21300244: PC Computer - Braid - Tim_122
+    21300246: PC Computer - Braid - Tim_123
+    21300248: PC Computer - Braid - Tim_124
+    21300250: PC Computer - Braid - Tim_125
+    21300252: PC Computer - Braid - Tim_126
+    21300254: PC Computer - Braid - Tim_127
+    21300256: PC Computer - Braid - Tim_128
+    21300258: PC Computer - Braid - Tim_129
+    21300260: PC Computer - Braid - Tim_130
+    21300262: PC Computer - Braid - Tim_131
+    21300264: PC Computer - Braid - Tim_132
+    21300266: PC Computer - Braid - Tim_133
+    21300268: PC Computer - Braid - Tim_134
+    21300270: PC Computer - Braid - Tim_135
+    21300272: PC Computer - Braid - Tim_136
+    21300274: PC Computer - Braid - Tim_137
+    21300276: PC Computer - Braid - Tim_138
+    21300278: PC Computer - Braid - Tim_139
+    21300280: PC Computer - Braid - Tim_140
+    21300282: PC Computer - Braid - Tim_141
+    21300284: PC Computer - Braid - Tim_142
+    21300286: PC Computer - Braid - Tim_143
+    21300288: PC Computer - Braid - Tim_144
+    21300290: PC Computer - Braid - Tim_145
+    21300292: PC Computer - Braid - Tim_146
+    21300294: PC Computer - Braid - Tim_147
+    21300296: PC Computer - Braid - Tim_148
+    21300298: PC Computer - Braid - Tim_149
+    21300300: PC Computer - Braid - Tim_150
+    21300302: PC Computer - Braid - Tim_151
+    21300304: PC Computer - Braid - Tim_152
+    21300306: PC Computer - Braid - Tim_153
+    21300308: PC Computer - Braid - Tim_154
+    21300310: PC Computer - Braid - Tim_155
+    21300312: PC Computer - Braid - Tim_156
+    21300314: PC Computer - Braid - Tim_157
+    21300316: PC Computer - Braid - Tim_158
+    21300318: PC Computer - Braid - Tim_159
+    21300320: PC Computer - Braid - Tim_160
+    21300322: PC Computer - Braid - Tim_161
+    21300324: PC Computer - Braid - Tim_162
+    21300326: PC Computer - Braid - Tim_163
+    21300328: PC Computer - Braid - Tim_164
+    21300330: PC Computer - Braid - Tim_165
+    21300332: PC Computer - Braid - Tim_166
+    21300334: PC Computer - Braid - Tim_167
+    21300336: PC Computer - Braid - Tim_168
+    21300338: PC Computer - Braid - Tim_169
+    21300340: PC Computer - Braid - Tim_170
+    21300342: PC Computer - Braid - Tim_171
+    21300344: PC Computer - Braid - Tim_172
+    21300346: PC Computer - Braid - Tim_173
+    21300348: PC Computer - Braid - Tim_174
+    21300350: PC Computer - Braid - Tim_175
+    21300352: PC Computer - Braid - Tim_176
+    21300354: PC Computer - Braid - Tim_177
+    21300356: PC Computer - Braid - Tim_178
+    21300358: PC Computer - Braid - Tim_179
+    21300360: PC Computer - Braid - Tim_180
+    21300362: PC Computer - Braid - Tim_181
+    21300364: PC Computer - Braid - Tim_182
+    21300366: PC Computer - Braid - Tim_183
+    21300368: PC Computer - Braid - Tim_184
+    21300370: PC Computer - Braid - Tim_185
+    21300372: PC Computer - Braid - Tim_186
+    21300374: PC Computer - Braid - Tim_187
+    21300376: PC Computer - Braid - Tim_188
+    21300378: PC Computer - Braid - Tim_189
+    21300380: PC Computer - Braid - Tim_190
+    21300382: PC Computer - Braid - Tim_191
+    21300384: PC Computer - Braid - Tim_192
+    21300386: PC Computer - Braid - Tim_193
+    21300388: PC Computer - Braid - Tim_194
+    21300390: PC Computer - Braid - Tim_195
+    21300392: PC Computer - Braid - Tim_196
+    21300394: PC Computer - Braid - Tim_197
+    21300396: PC Computer - Braid - Tim_198
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Braid - Tim_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.708267, y: 57.428467}
+        - {x: -33.708267, y: 56.428467}
+        - {x: -33.708267, y: -52.571533}
+        - {x: -32.708267, y: -55.571533}
+        - {x: 33.291733, y: -55.571533}
+        - {x: 35.291733, y: -44.571533}
+        - {x: 35.291733, y: 56.428467}
+        - {x: 33.291733, y: 57.428467}
+    - name: PC Computer - Braid - Tim_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1210
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.065178, y: 57.428467}
+        - {x: -33.065178, y: 40.428467}
+        - {x: -33.065178, y: -54.571533}
+        - {x: -32.065178, y: -55.571533}
+        - {x: 34.934822, y: -55.571533}
+        - {x: 34.934822, y: 57.428467}
+    - name: PC Computer - Braid - Tim_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.678055, y: 57.428467}
+        - {x: -33.678055, y: -55.571533}
+        - {x: 30.321945, y: -55.571533}
+        - {x: 35.321945, y: -27.571533}
+        - {x: 35.321945, y: 48.428467}
+        - {x: 29.321945, y: 57.428467}
+    - name: PC Computer - Braid - Tim_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.034973, y: 57.928467}
+        - {x: -33.034973, y: 53.928467}
+        - {x: -33.034973, y: -56.071533}
+        - {x: 34.965027, y: -56.071533}
+        - {x: 34.965027, y: 57.928467}
+    - name: PC Computer - Braid - Tim_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.577911, y: 57.928467}
+        - {x: -32.57791, y: 47.928467}
+        - {x: -32.57791, y: -56.071533}
+        - {x: 31.422089, y: -56.071533}
+        - {x: 34.42209, y: -42.071533}
+        - {x: 34.42209, y: 55.928467}
+        - {x: 29.422089, y: 57.928467}
+    - name: PC Computer - Braid - Tim_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.50476, y: 57.928467}
+        - {x: -32.50476, y: 48.928467}
+        - {x: -32.50476, y: -50.071533}
+        - {x: -31.50476, y: -56.071533}
+        - {x: 34.49524, y: -56.071533}
+        - {x: 34.49524, y: 57.928467}
+    - name: PC Computer - Braid - Tim_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.361664, y: 57.928467}
+        - {x: -33.361664, y: 54.928467}
+        - {x: -33.361664, y: -51.071533}
+        - {x: -29.361664, y: -56.071533}
+        - {x: 33.638336, y: -56.071533}
+        - {x: 33.638336, y: 55.928467}
+        - {x: 29.638336, y: 57.928467}
+    - name: PC Computer - Braid - Tim_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.281433, y: 57.928467}
+        - {x: -23.718567, y: 57.928467}
+        - {x: -33.718567, y: 45.928467}
+        - {x: -33.718567, y: -56.071533}
+        - {x: 26.281433, y: -56.071533}
+        - {x: 31.281433, y: -47.071533}
+        - {x: 34.281433, y: -26.071533}
+        - {x: 34.281433, y: 56.928467}
+    - name: PC Computer - Braid - Tim_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1210
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.110474, y: 49.928467}
+        - {x: 25.110474, y: 55.928467}
+        - {x: 22.110474, y: 57.928467}
+        - {x: -23.889526, y: 57.928467}
+        - {x: -33.889526, y: 45.928467}
+        - {x: -33.889526, y: -56.071533}
+        - {x: 35.110474, y: -56.071533}
+        - {x: 35.110474, y: 41.928467}
+    - name: PC Computer - Braid - Tim_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.490479, y: 57.928467}
+        - {x: -33.49048, y: 47.928467}
+        - {x: -33.49048, y: -37.071533}
+        - {x: -27.490479, y: -56.071533}
+        - {x: 29.509521, y: -56.071533}
+        - {x: 33.50952, y: -46.071533}
+        - {x: 33.50952, y: 55.928467}
+        - {x: 26.509521, y: 57.928467}
+    - name: PC Computer - Braid - Tim_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.533386, y: 57.928467}
+        - {x: -32.533386, y: 43.928467}
+        - {x: -32.533386, y: -56.071533}
+        - {x: 34.466614, y: -56.071533}
+        - {x: 34.466614, y: 55.928467}
+        - {x: 30.466614, y: 57.928467}
+    - name: PC Computer - Braid - Tim_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.39026, y: 57.928467}
+        - {x: -33.39026, y: -56.071533}
+        - {x: 29.609741, y: -56.071533}
+        - {x: 33.60974, y: -41.071533}
+        - {x: 33.60974, y: 57.928467}
+    - name: PC Computer - Braid - Tim_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.503174, y: 57.928467}
+        - {x: -32.503174, y: 49.928467}
+        - {x: -32.503174, y: -51.071533}
+        - {x: -31.503174, y: -56.071533}
+        - {x: 34.496826, y: -56.071533}
+        - {x: 34.496826, y: 55.928467}
+        - {x: 33.496826, y: 57.928467}
+    - name: PC Computer - Braid - Tim_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.116089, y: 57.928467}
+        - {x: -31.116089, y: 54.928467}
+        - {x: -33.11609, y: 50.928467}
+        - {x: -33.11609, y: -43.071533}
+        - {x: -30.116089, y: -56.071533}
+        - {x: 34.88391, y: -56.071533}
+        - {x: 34.88391, y: 57.928467}
+    - name: PC Computer - Braid - Tim_14
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.600952, y: 57.928467}
+        - {x: -33.600952, y: 49.928467}
+        - {x: -33.600952, y: -56.071533}
+        - {x: 29.399048, y: -56.071533}
+        - {x: 34.399048, y: -37.071533}
+        - {x: 34.399048, y: 57.928467}
+    - name: PC Computer - Braid - Tim_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.39978, y: 57.928467}
+        - {x: -33.39978, y: 42.928467}
+        - {x: -33.39978, y: -56.071533}
+        - {x: 33.60022, y: -56.071533}
+        - {x: 33.60022, y: 51.928467}
+        - {x: 32.60022, y: 57.928467}
+    - name: PC Computer - Braid - Tim_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1210
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.69873, y: 57.928467}
+        - {x: -33.69873, y: 41.928467}
+        - {x: -33.69873, y: -56.071533}
+        - {x: 35.30127, y: -56.071533}
+        - {x: 35.30127, y: 52.928467}
+        - {x: 32.30127, y: 57.928467}
+    - name: PC Computer - Braid - Tim_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.055664, y: 57.928467}
+        - {x: -33.055664, y: -56.071533}
+        - {x: 34.944336, y: -56.071533}
+        - {x: 34.944336, y: 57.928467}
+    - name: PC Computer - Braid - Tim_18
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1210
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.59851, y: 57.428467}
+        - {x: -32.59851, y: 43.428467}
+        - {x: -32.59851, y: -55.571533}
+        - {x: 33.40149, y: -55.571533}
+        - {x: 34.40149, y: -54.571533}
+        - {x: 34.40149, y: 54.428467}
+        - {x: 32.40149, y: 57.428467}
+    - name: PC Computer - Braid - Tim_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.827515, y: 57.428467}
+        - {x: -33.827515, y: 40.428467}
+        - {x: -33.827515, y: -55.571533}
+        - {x: 35.172485, y: -55.571533}
+        - {x: 35.172485, y: 57.428467}
+    - name: PC Computer - Braid - Tim_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.684448, y: 57.428467}
+        - {x: -33.68445, y: 43.428467}
+        - {x: -33.68445, y: -39.571533}
+        - {x: -28.684448, y: -55.571533}
+        - {x: 35.31555, y: -55.571533}
+        - {x: 35.31555, y: 54.428467}
+        - {x: 32.31555, y: 57.428467}
+    - name: PC Computer - Braid - Tim_21
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1210
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.2854, y: 57.428467}
+        - {x: -33.2854, y: 49.428467}
+        - {x: -33.2854, y: -54.571533}
+        - {x: -32.2854, y: -55.571533}
+        - {x: 33.7146, y: -55.571533}
+        - {x: 33.7146, y: 55.428467}
+        - {x: 27.7146, y: 57.428467}
+    - name: PC Computer - Braid - Tim_22
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1210
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.325073, y: 58.928467}
+        - {x: -31.325073, y: -57.071533}
+        - {x: 31.674927, y: -57.071533}
+        - {x: 31.674927, y: 50.928467}
+        - {x: 23.674927, y: 58.928467}
+    - name: PC Computer - Braid - Tim_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1210
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.936401, y: 56.928467}
+        - {x: -36.9364, y: 43.928467}
+        - {x: -36.9364, y: -53.071533}
+        - {x: -33.9364, y: -55.071533}
+        - {x: 27.063599, y: -55.071533}
+        - {x: 37.0636, y: -22.071533}
+        - {x: 37.0636, y: 51.928467}
+        - {x: 26.063599, y: 56.928467}
+    - name: PC Computer - Braid - Tim_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1034
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.720192, y: 53.666138}
+        - {x: -48.720192, y: 17.666138}
+        - {x: -48.720192, y: -48.333862}
+        - {x: -26.720192, y: -52.333862}
+        - {x: 37.279808, y: -52.333862}
+        - {x: 49.279808, y: -33.333862}
+        - {x: 49.279808, y: 51.666138}
+        - {x: 42.279808, y: 53.666138}
+    - name: PC Computer - Braid - Tim_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1033
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.017487, y: 54.352173}
+        - {x: -44.017487, y: 46.352173}
+        - {x: -48.017487, y: 35.352173}
+        - {x: -48.017487, y: -39.647827}
+        - {x: -44.017487, y: -49.647827}
+        - {x: -30.017487, y: -52.647827}
+        - {x: 29.982513, y: -52.647827}
+        - {x: 49.982513, y: -32.647827}
+        - {x: 49.982513, y: 49.352173}
+        - {x: 47.982513, y: 54.352173}
+    - name: PC Computer - Braid - Tim_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1030
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.372803, y: 54.910217}
+        - {x: -48.372803, y: 30.910217}
+        - {x: -48.372803, y: -53.089783}
+        - {x: -44.372803, y: -54.089783}
+        - {x: 31.627197, y: -54.089783}
+        - {x: 48.627197, y: -37.089783}
+        - {x: 48.627197, y: 54.910217}
+    - name: PC Computer - Braid - Tim_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1029
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.387909, y: 1.5961914}
+        - {x: 47.38791, y: 21.596191}
+        - {x: 47.38791, y: 48.59619}
+        - {x: 43.38791, y: 55.59619}
+        - {x: -14.612091, y: 55.59619}
+        - {x: -46.61209, y: 45.59619}
+        - {x: -46.61209, y: -46.40381}
+        - {x: -16.612091, y: -54.40381}
+        - {x: 25.387909, y: -54.40381}
+        - {x: 47.38791, y: -31.403809}
+        - {x: 47.38791, y: -2.4038086}
+        - {x: 37.38791, y: 1.5961914}
+    - name: PC Computer - Braid - Tim_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1027
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.049286, y: 56.4682}
+        - {x: -43.049286, y: 30.4682}
+        - {x: -43.049286, y: -54.5318}
+        - {x: 44.950714, y: -54.5318}
+        - {x: 44.950714, y: 56.4682}
+    - name: PC Computer - Braid - Tim_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1027
+        width: 104
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.498413, y: 55.9682}
+        - {x: -42.498413, y: 38.9682}
+        - {x: -42.498413, y: -50.0318}
+        - {x: -35.498413, y: -54.0318}
+        - {x: 31.501587, y: -54.0318}
+        - {x: 42.501587, y: -28.0318}
+        - {x: 42.501587, y: 55.9682}
+    - name: PC Computer - Braid - Tim_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1029
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.877563, y: 55.09619}
+        - {x: -35.877563, y: 40.09619}
+        - {x: -41.877563, y: 6.0961914}
+        - {x: -41.877563, y: -52.90381}
+        - {x: -38.877563, y: -53.90381}
+        - {x: 24.122437, y: -53.90381}
+        - {x: 35.122437, y: -46.90381}
+        - {x: 42.122437, y: -8.903809}
+        - {x: 42.122437, y: 55.09619}
+    - name: PC Computer - Braid - Tim_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1028
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.487305, y: 56.282227}
+        - {x: -27.512695, y: 56.282227}
+        - {x: -41.512695, y: 27.282227}
+        - {x: -41.512695, y: -41.717773}
+        - {x: -35.512695, y: -52.717773}
+        - {x: -27.512695, y: -54.717773}
+        - {x: 13.487305, y: -54.717773}
+        - {x: 33.487305, y: -38.717773}
+        - {x: 43.487305, y: 4.2822266}
+        - {x: 43.487305, y: 53.282227}
+    - name: PC Computer - Braid - Tim_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1027
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.775818, y: 56.4682}
+        - {x: -39.775818, y: 48.4682}
+        - {x: -39.775818, y: -29.5318}
+        - {x: -29.775818, y: -54.5318}
+        - {x: 14.224182, y: -54.5318}
+        - {x: 40.224182, y: 4.4682007}
+        - {x: 40.224182, y: 56.4682}
+    - name: PC Computer - Braid - Tim_33
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1046
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.001587, y: 54.93402}
+        - {x: -41.001587, y: 29.934021}
+        - {x: -41.001587, y: -49.06598}
+        - {x: -33.001587, y: -54.06598}
+        - {x: 27.998413, y: -54.06598}
+        - {x: 39.998413, y: -45.06598}
+        - {x: 42.998413, y: -3.065979}
+        - {x: 42.998413, y: 54.93402}
+    - name: PC Computer - Braid - Tim_34
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1054
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.049316, y: 50.945984}
+        - {x: -27.950684, y: 50.945984}
+        - {x: -36.950684, y: 36.945984}
+        - {x: -38.950684, y: 16.945984}
+        - {x: -38.950684, y: -31.054016}
+        - {x: -20.950684, y: -45.054016}
+        - {x: -12.950684, y: -48.054016}
+        - {x: -8.950684, y: -49.054016}
+        - {x: 15.049316, y: -49.054016}
+        - {x: 26.049316, y: -41.054016}
+        - {x: 39.049316, y: -6.054016}
+        - {x: 39.049316, y: 45.945984}
+    - name: PC Computer - Braid - Tim_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1055
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.969727, y: 49.75995}
+        - {x: -38.969727, y: 33.75995}
+        - {x: -38.969727, y: -34.24005}
+        - {x: -25.969727, y: -48.24005}
+        - {x: 36.030273, y: -48.24005}
+        - {x: 39.030273, y: -34.24005}
+        - {x: 39.030273, y: 46.75995}
+        - {x: 28.030273, y: 49.75995}
+    - name: PC Computer - Braid - Tim_36
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1057
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.48889, y: 48.38794}
+        - {x: -39.48889, y: 39.38794}
+        - {x: -39.48889, y: -28.61206}
+        - {x: -33.48889, y: -41.61206}
+        - {x: -24.488892, y: -47.61206}
+        - {x: 22.511108, y: -47.61206}
+        - {x: 39.51111, y: -23.61206}
+        - {x: 39.51111, y: 36.38794}
+        - {x: 33.51111, y: 48.38794}
+    - name: PC Computer - Braid - Tim_37
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1056
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.73999, y: 48.073914}
+        - {x: -40.73999, y: 34.073914}
+        - {x: -40.73999, y: -13.926086}
+        - {x: -24.73999, y: -46.926086}
+        - {x: 42.26001, y: -46.926086}
+        - {x: 42.26001, y: 48.073914}
+    - name: PC Computer - Braid - Tim_38
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1051
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.92688, y: 48.003967}
+        - {x: -29.07312, y: 48.003967}
+        - {x: -46.07312, y: 40.003967}
+        - {x: -46.07312, y: -15.996033}
+        - {x: -31.07312, y: -46.996033}
+        - {x: 27.92688, y: -46.996033}
+        - {x: 47.92688, y: -33.996033}
+        - {x: 47.92688, y: 3.0039673}
+    - name: PC Computer - Braid - Tim_39
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1060
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.179565, y: 40.829895}
+        - {x: -50.179565, y: 21.829895}
+        - {x: -50.179565, y: -26.170105}
+        - {x: -43.179565, y: -37.170105}
+        - {x: -30.179565, y: -39.170105}
+        - {x: 41.820435, y: -39.170105}
+        - {x: 51.820435, y: -16.170105}
+        - {x: 51.820435, y: 12.829895}
+        - {x: 21.820435, y: 40.829895}
+    - name: PC Computer - Braid - Tim_40
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1060
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.360962, y: 40.829895}
+        - {x: -48.639038, y: 40.829895}
+        - {x: -50.639038, y: 32.829895}
+        - {x: -50.639038, y: -28.170105}
+        - {x: -35.639038, y: -37.170105}
+        - {x: -13.639038, y: -39.170105}
+        - {x: 30.360962, y: -39.170105}
+        - {x: 51.360962, y: -16.170105}
+        - {x: 51.360962, y: 8.829895}
+        - {x: 44.360962, y: 29.829895}
+    - name: PC Computer - Braid - Tim_41
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1060
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.48242, y: 39.829895}
+        - {x: -50.48242, y: 31.829895}
+        - {x: -50.48242, y: -31.170105}
+        - {x: -28.482422, y: -37.170105}
+        - {x: -18.482422, y: -38.170105}
+        - {x: 30.517578, y: -38.170105}
+        - {x: 50.51758, y: -19.170105}
+        - {x: 50.51758, y: 35.829895}
+        - {x: 28.517578, y: 39.829895}
+    - name: PC Computer - Braid - Tim_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 877
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.06836, y: 56.36963}
+        - {x: -39.06836, y: 17.369629}
+        - {x: -39.06836, y: -45.63037}
+        - {x: -32.06836, y: -54.63037}
+        - {x: 3.9316406, y: -54.63037}
+        - {x: 29.93164, y: -35.63037}
+        - {x: 40.93164, y: 24.369629}
+        - {x: 40.93164, y: 49.36963}
+        - {x: 33.93164, y: 56.36963}
+    - name: PC Computer - Braid - Tim_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 879
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.73848, y: 55.49762}
+        - {x: -27.26152, y: 55.49762}
+        - {x: -39.26152, y: 51.49762}
+        - {x: -39.26152, y: -54.50238}
+        - {x: -1.2615204, y: -54.50238}
+        - {x: 5.7384796, y: -50.50238}
+        - {x: 39.73848, y: 13.49762}
+        - {x: 39.73848, y: 49.49762}
+    - name: PC Computer - Braid - Tim_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 878
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.893478, y: 55.683655}
+        - {x: -18.106522, y: 55.683655}
+        - {x: -31.106522, y: 34.683655}
+        - {x: -30.106522, y: 16.683655}
+        - {x: -41.10652, y: -6.316345}
+        - {x: -41.10652, y: -53.316345}
+        - {x: -39.10652, y: -54.316345}
+        - {x: 6.8934784, y: -54.316345}
+        - {x: 42.89348, y: 14.683655}
+        - {x: 42.89348, y: 46.683655}
+    - name: PC Computer - Braid - Tim_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 878
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.555634, y: 55.683655}
+        - {x: -41.555634, y: 45.683655}
+        - {x: -41.555634, y: -54.316345}
+        - {x: 12.444366, y: -54.316345}
+        - {x: 33.444366, y: -43.316345}
+        - {x: 43.444366, y: -4.316345}
+        - {x: 43.444366, y: 55.683655}
+    - name: PC Computer - Braid - Tim_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 883
+        width: 108
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.934814, y: 10.253601}
+        - {x: -43.934814, y: -46.7464}
+        - {x: -41.934814, y: -52.7464}
+        - {x: 44.065186, y: -52.7464}
+        - {x: 44.065186, y: 54.2536}
+        - {x: -26.934814, y: 54.2536}
+        - {x: -28.934814, y: 53.2536}
+    - name: PC Computer - Braid - Tim_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.569946, y: 52.38159}
+        - {x: -28.569946, y: 32.38159}
+        - {x: -47.569946, y: -23.618408}
+        - {x: -47.569946, y: -47.61841}
+        - {x: -45.569946, y: -49.61841}
+        - {x: -38.569946, y: -51.61841}
+        - {x: 36.430054, y: -51.61841}
+        - {x: 49.430054, y: -12.618408}
+        - {x: 49.430054, y: 52.38159}
+    - name: PC Computer - Braid - Tim_48
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 884
+        width: 119
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.693176, y: 53.067566}
+        - {x: -48.693176, y: 6.067566}
+        - {x: -48.693176, y: -46.932434}
+        - {x: -28.693176, y: -51.932434}
+        - {x: 28.306824, y: -51.932434}
+        - {x: 39.306824, y: -45.932434}
+        - {x: 49.306824, y: 0.06756592}
+        - {x: 49.306824, y: 42.067566}
+        - {x: 41.306824, y: 53.067566}
+    - name: PC Computer - Braid - Tim_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 883
+        width: 111
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.939575, y: -52.2464}
+        - {x: 46.939575, y: 53.7536}
+        - {x: -32.060425, y: 53.7536}
+        - {x: -45.060425, y: 46.7536}
+        - {x: -45.060425, y: -52.2464}
+    - name: PC Computer - Braid - Tim_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 881
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.637512, y: 53.12561}
+        - {x: -41.637512, y: 28.12561}
+        - {x: -41.637512, y: -49.87439}
+        - {x: -40.637512, y: -49.87439}
+        - {x: -25.637512, y: -52.87439}
+        - {x: 27.362488, y: -52.87439}
+        - {x: 42.362488, y: -10.87439}
+        - {x: 42.362488, y: 50.12561}
+        - {x: 39.362488, y: 53.12561}
+    - name: PC Computer - Braid - Tim_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.117615, y: 52.38159}
+        - {x: -41.117615, y: -48.61841}
+        - {x: -34.117615, y: -51.61841}
+        - {x: 22.882385, y: -51.61841}
+        - {x: 42.882385, y: -14.618408}
+        - {x: 42.882385, y: 52.38159}
+    - name: PC Computer - Braid - Tim_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 883
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.636719, y: 54.2536}
+        - {x: -31.636719, y: 38.2536}
+        - {x: -39.63672, y: 17.253601}
+        - {x: -39.63672, y: -22.746399}
+        - {x: -28.636719, y: -52.7464}
+        - {x: -4.6367188, y: -52.7464}
+        - {x: -2.6367188, y: -50.7464}
+        - {x: -0.63671875, y: -45.7464}
+        - {x: 5.3632812, y: -52.7464}
+        - {x: 36.36328, y: -52.7464}
+        - {x: 41.36328, y: -33.7464}
+        - {x: 41.36328, y: 53.2536}
+        - {x: 39.36328, y: 54.2536}
+    - name: PC Computer - Braid - Tim_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 878
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.655762, y: 56.683655}
+        - {x: -38.65576, y: 51.683655}
+        - {x: -38.65576, y: -23.316345}
+        - {x: -28.655762, y: -52.316345}
+        - {x: -20.655762, y: -55.316345}
+        - {x: 29.344238, y: -55.316345}
+        - {x: 40.34424, y: -26.316345}
+        - {x: 40.34424, y: 56.683655}
+    - name: PC Computer - Braid - Tim_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 92
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.174805, y: 58.927673}
+        - {x: -31.174805, y: 57.927673}
+        - {x: -37.174805, y: 30.927673}
+        - {x: -37.174805, y: -30.072327}
+        - {x: -28.174805, y: -57.072327}
+        - {x: -25.174805, y: -58.072327}
+        - {x: 32.825195, y: -58.072327}
+        - {x: 38.825195, y: -51.072327}
+        - {x: 38.825195, y: 53.927673}
+        - {x: 30.825195, y: 58.927673}
+    - name: PC Computer - Braid - Tim_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 876
+        width: 95
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.73999, y: 58.055664}
+        - {x: -36.73999, y: 32.055664}
+        - {x: -38.73999, y: 20.055664}
+        - {x: -38.73999, y: -39.944336}
+        - {x: -37.73999, y: -42.944336}
+        - {x: -23.73999, y: -57.944336}
+        - {x: 40.26001, y: -57.944336}
+        - {x: 40.26001, y: 56.055664}
+        - {x: 33.26001, y: 58.055664}
+    - name: PC Computer - Braid - Tim_56
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 878
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.19629, y: 58.183655}
+        - {x: -38.19629, y: 52.183655}
+        - {x: -38.19629, y: -56.816345}
+        - {x: 38.80371, y: -56.816345}
+        - {x: 38.80371, y: 56.183655}
+        - {x: 33.80371, y: 58.183655}
+    - name: PC Computer - Braid - Tim_57
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 878
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.7854, y: 58.183655}
+        - {x: -38.7854, y: 18.183655}
+        - {x: -39.7854, y: 12.183655}
+        - {x: -39.7854, y: -36.816345}
+        - {x: -17.7854, y: -56.816345}
+        - {x: 22.2146, y: -56.816345}
+        - {x: 40.2146, y: -47.816345}
+        - {x: 40.2146, y: 58.183655}
+    - name: PC Computer - Braid - Tim_58
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 879
+        width: 101
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.060425, y: 57.49762}
+        - {x: -41.060425, y: 21.49762}
+        - {x: -41.060425, y: -42.50238}
+        - {x: -34.060425, y: -56.50238}
+        - {x: 37.939575, y: -56.50238}
+        - {x: 42.939575, y: -31.50238}
+        - {x: 42.939575, y: 56.49762}
+        - {x: 39.939575, y: 57.49762}
+    - name: PC Computer - Braid - Tim_59
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 881
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.463379, y: 56.12561}
+        - {x: -42.46338, y: 26.12561}
+        - {x: -42.46338, y: -55.87439}
+        - {x: 33.53662, y: -55.87439}
+        - {x: 42.53662, y: -19.87439}
+        - {x: 42.53662, y: 46.12561}
+        - {x: 36.53662, y: 56.12561}
+    - name: PC Computer - Braid - Tim_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 738
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.650238, y: 54.724976}
+        - {x: -35.650238, y: 35.724976}
+        - {x: -42.650238, y: -0.2750244}
+        - {x: -42.650238, y: -51.275024}
+        - {x: -18.650238, y: -53.275024}
+        - {x: 22.349762, y: -53.275024}
+        - {x: 23.349762, y: -44.275024}
+        - {x: 43.349762, y: 24.724976}
+        - {x: 43.349762, y: 54.724976}
+    - name: PC Computer - Braid - Tim_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 738
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.215416, y: 54.724976}
+        - {x: -42.215416, y: 30.724976}
+        - {x: -42.215416, y: -53.275024}
+        - {x: 41.784584, y: -53.275024}
+        - {x: 42.784584, y: -44.275024}
+        - {x: 42.784584, y: 54.724976}
+    - name: PC Computer - Braid - Tim_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 737
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.53656, y: 55.41095}
+        - {x: -39.53656, y: 51.41095}
+        - {x: -39.53656, y: -53.58905}
+        - {x: 17.46344, y: -53.58905}
+        - {x: 31.46344, y: -27.58905}
+        - {x: 41.46344, y: 12.41095}
+        - {x: 41.46344, y: 55.41095}
+    - name: PC Computer - Braid - Tim_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.596191, y: 55.968994}
+        - {x: -26.403809, y: 55.968994}
+        - {x: -38.40381, y: 30.968994}
+        - {x: -38.40381, y: -45.031006}
+        - {x: -28.403809, y: -55.031006}
+        - {x: -0.4038086, y: -55.031006}
+        - {x: 25.596191, y: -29.031006}
+        - {x: 39.59619, y: 15.968994}
+        - {x: 39.59619, y: 48.968994}
+    - name: PC Computer - Braid - Tim_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 100
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.263123, y: 55.096985}
+        - {x: -20.736877, y: 55.096985}
+        - {x: -31.736877, y: 31.096985}
+        - {x: -40.736877, y: -0.90301514}
+        - {x: -40.736877, y: -26.903015}
+        - {x: -25.736877, y: -54.903015}
+        - {x: 1.2631226, y: -54.903015}
+        - {x: 34.263123, y: -39.903015}
+        - {x: 42.263123, y: 3.0969849}
+        - {x: 42.263123, y: 51.096985}
+    - name: PC Computer - Braid - Tim_65
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 736
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.383942, y: 55.596985}
+        - {x: -42.38394, y: 17.596985}
+        - {x: -42.38394, y: -44.403015}
+        - {x: -40.38394, y: -55.403015}
+        - {x: -1.3839417, y: -55.403015}
+        - {x: 42.61606, y: -28.403015}
+        - {x: 42.61606, y: 53.596985}
+        - {x: 34.61606, y: 55.596985}
+    - name: PC Computer - Braid - Tim_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 736
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.25116, y: 55.596985}
+        - {x: -33.25116, y: 52.596985}
+        - {x: -43.25116, y: 19.596985}
+        - {x: -43.25116, y: -25.403015}
+        - {x: -37.25116, y: -55.403015}
+        - {x: 34.74884, y: -55.403015}
+        - {x: 44.74884, y: -29.403015}
+        - {x: 44.74884, y: 55.596985}
+    - name: PC Computer - Braid - Tim_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 736
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.6883545, y: 55.596985}
+        - {x: -44.688354, y: 32.596985}
+        - {x: -44.688354, y: -55.403015}
+        - {x: 10.3116455, y: -55.403015}
+        - {x: 45.311646, y: -27.403015}
+        - {x: 45.311646, y: 45.596985}
+        - {x: 34.311646, y: 55.596985}
+    - name: PC Computer - Braid - Tim_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 738
+        width: 113
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.579468, y: 55.724976}
+        - {x: -45.579468, y: 17.724976}
+        - {x: -45.579468, y: -40.275024}
+        - {x: -38.579468, y: -54.275024}
+        - {x: 32.420532, y: -54.275024}
+        - {x: 47.420532, y: -38.275024}
+        - {x: 47.420532, y: 52.724976}
+        - {x: 41.420532, y: 55.724976}
+    - name: PC Computer - Braid - Tim_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.757507, y: 55.177246}
+        - {x: -22.757507, y: 54.177246}
+        - {x: -24.757507, y: 40.177246}
+        - {x: -23.757507, y: 27.177246}
+        - {x: -43.757507, y: 15.177246}
+        - {x: -43.757507, y: -42.822754}
+        - {x: -39.757507, y: -53.822754}
+        - {x: 1.2424927, y: -53.822754}
+        - {x: 45.242493, y: 8.177246}
+        - {x: 45.242493, y: 44.177246}
+        - {x: 39.242493, y: 55.177246}
+    - name: PC Computer - Braid - Tim_70
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 706
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.694702, y: 53.677246}
+        - {x: -48.694702, y: 20.677246}
+        - {x: -48.694702, y: -40.322754}
+        - {x: -24.694702, y: -52.322754}
+        - {x: 0.30529785, y: -52.322754}
+        - {x: 49.305298, y: 10.677246}
+        - {x: 49.305298, y: 39.677246}
+        - {x: 40.305298, y: 53.677246}
+    - name: PC Computer - Braid - Tim_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.248047, y: 53.677246}
+        - {x: -51.248047, y: 45.677246}
+        - {x: -51.248047, y: -52.322754}
+        - {x: 4.751953, y: -52.322754}
+        - {x: 52.751953, y: 19.677246}
+        - {x: 52.751953, y: 47.677246}
+        - {x: 31.751953, y: 53.677246}
+    - name: PC Computer - Braid - Tim_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 707
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.21936, y: 54.491272}
+        - {x: -47.21936, y: 20.491272}
+        - {x: -47.21936, y: -19.508728}
+        - {x: -36.21936, y: -46.508728}
+        - {x: -25.21936, y: -53.508728}
+        - {x: 27.78064, y: -53.508728}
+        - {x: 48.78064, y: 8.491272}
+        - {x: 48.78064, y: 54.491272}
+    - name: PC Computer - Braid - Tim_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 707
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.458618, y: 55.991272}
+        - {x: -44.45862, y: 24.991272}
+        - {x: -44.45862, y: -25.008728}
+        - {x: -38.45862, y: -45.008728}
+        - {x: -28.458618, y: -55.008728}
+        - {x: -11.458618, y: -55.008728}
+        - {x: 13.541382, y: -47.008728}
+        - {x: 44.54138, y: 8.991272}
+        - {x: 44.54138, y: 48.991272}
+        - {x: 41.54138, y: 55.991272}
+    - name: PC Computer - Braid - Tim_74
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 797
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_75
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 813
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_76
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 797
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_77
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 797
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_78
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 768
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_79
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 768
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_80
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 768
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_81
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 768
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_82
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 768
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_83
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 738
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_84
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 734
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_85
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 738
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_86
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 738
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_87
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 738
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_88
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 733
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_89
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 738
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_90
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 738
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_91
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 738
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_92
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 738
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_93
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 745
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_94
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 738
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_95
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 738
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_96
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 738
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_97
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 738
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_98
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 549
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.37043, y: 55.880768}
+        - {x: -41.37043, y: -6.119232}
+        - {x: -30.37043, y: -54.119232}
+        - {x: 32.62957, y: -54.119232}
+        - {x: 42.62957, y: -40.119232}
+        - {x: 42.62957, y: 43.880768}
+        - {x: 31.62957, y: 55.880768}
+    - name: PC Computer - Braid - Tim_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 544
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.191574, y: 59.31082}
+        - {x: -40.191574, y: 13.310822}
+        - {x: -28.191574, y: -57.68918}
+        - {x: 2.808426, y: -57.68918}
+        - {x: 35.808426, y: -46.68918}
+        - {x: 40.808426, y: -20.689178}
+        - {x: 40.808426, y: 37.31082}
+        - {x: -2.191574, y: 59.31082}
+    - name: PC Computer - Braid - Tim_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 553
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.74324, y: -44.86328}
+        - {x: 27.74324, y: -43.86328}
+        - {x: 42.74324, y: -2.8632812}
+        - {x: 42.74324, y: 39.13672}
+        - {x: 35.74324, y: 47.13672}
+        - {x: 21.74324, y: 49.13672}
+        - {x: -42.25676, y: 49.13672}
+        - {x: -42.25676, y: -28.863281}
+        - {x: -27.25676, y: -48.86328}
+        - {x: -7.2567596, y: -48.86328}
+        - {x: -1.2567596, y: -44.86328}
+        - {x: -2.2567596, y: -40.86328}
+        - {x: 0.74324036, y: -43.86328}
+    - name: PC Computer - Braid - Tim_101
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 554
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.57791, y: 50.950714}
+        - {x: -43.57791, y: 42.950714}
+        - {x: -43.57791, y: -27.049286}
+        - {x: -35.57791, y: -46.049286}
+        - {x: -20.577911, y: -49.049286}
+        - {x: 28.422089, y: -49.049286}
+        - {x: 45.42209, y: 10.950714}
+        - {x: 45.42209, y: 50.950714}
+    - name: PC Computer - Braid - Tim_102
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 544
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.817169, y: 58.31082}
+        - {x: -41.81717, y: 41.31082}
+        - {x: -41.81717, y: -41.68918}
+        - {x: -40.81717, y: -48.68918}
+        - {x: -8.817169, y: -56.68918}
+        - {x: 25.18283, y: -56.68918}
+        - {x: 42.18283, y: 1.3108215}
+        - {x: 42.18283, y: 56.31082}
+        - {x: 40.18283, y: 58.31082}
+    - name: PC Computer - Braid - Tim_103
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 543
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8735962, y: 59.496826}
+        - {x: -40.126404, y: 44.496826}
+        - {x: -40.126404, y: -27.503174}
+        - {x: -35.126404, y: -47.503174}
+        - {x: -7.126404, y: -57.503174}
+        - {x: 34.873596, y: -57.503174}
+        - {x: 40.873596, y: -8.503174}
+        - {x: 40.873596, y: 59.496826}
+    - name: PC Computer - Braid - Tim_104
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 553
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.621582, y: 50.13672}
+        - {x: -41.621582, y: -27.863281}
+        - {x: -25.621582, y: -47.86328}
+        - {x: -1.621582, y: -46.86328}
+        - {x: -0.62158203, y: -41.86328}
+        - {x: -0.62158203, y: -34.86328}
+        - {x: -0.62158203, y: -44.86328}
+        - {x: 0.37841797, y: -49.86328}
+        - {x: 28.378418, y: -49.86328}
+        - {x: 42.378418, y: 1.1367188}
+        - {x: 42.378418, y: 44.13672}
+        - {x: 39.378418, y: 50.13672}
+    - name: PC Computer - Braid - Tim_105
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 554
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.441162, y: 50.950714}
+        - {x: -43.558838, y: 50.950714}
+        - {x: -43.558838, y: 18.950714}
+        - {x: -22.558838, y: -49.049286}
+        - {x: 7.441162, y: -49.049286}
+        - {x: 39.441162, y: -44.049286}
+        - {x: 45.441162, y: -21.049286}
+        - {x: 45.441162, y: 47.950714}
+    - name: PC Computer - Braid - Tim_106
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 545
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.63275, y: 54.124817}
+        - {x: -43.63275, y: 52.124817}
+        - {x: -49.63275, y: 28.124817}
+        - {x: -49.63275, y: -44.875183}
+        - {x: -29.632751, y: -52.875183}
+        - {x: 25.367249, y: -52.875183}
+        - {x: 50.36725, y: -4.875183}
+        - {x: 50.36725, y: 41.124817}
+        - {x: 38.36725, y: 54.124817}
+    - name: PC Computer - Braid - Tim_107
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 543
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.046143, y: 55.496826}
+        - {x: -52.046143, y: 51.496826}
+        - {x: -52.046143, y: -39.503174}
+        - {x: -36.046143, y: -53.503174}
+        - {x: 11.953857, y: -53.503174}
+        - {x: 53.953857, y: -6.503174}
+        - {x: 53.953857, y: 46.496826}
+        - {x: 41.953857, y: 55.496826}
+    - name: PC Computer - Braid - Tim_108
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 544
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.94751, y: 54.81082}
+        - {x: -52.94751, y: -53.18918}
+        - {x: 30.05249, y: -53.18918}
+        - {x: 53.05249, y: 13.810822}
+        - {x: 53.05249, y: 52.81082}
+        - {x: 36.05249, y: 54.81082}
+    - name: PC Computer - Braid - Tim_109
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 548
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.849, y: 52.066772}
+        - {x: -47.849, y: 44.066772}
+        - {x: -47.849, y: -42.933228}
+        - {x: -35.849, y: -51.933228}
+        - {x: 27.151001, y: -51.933228}
+        - {x: 48.151, y: -13.933228}
+        - {x: 48.151, y: 48.066772}
+        - {x: 35.151, y: 52.066772}
+    - name: PC Computer - Braid - Tim_110
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 548
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.704224, y: 52.066772}
+        - {x: -46.704224, y: 29.066772}
+        - {x: -46.704224, y: -50.933228}
+        - {x: -42.704224, y: -51.933228}
+        - {x: 30.295776, y: -51.933228}
+        - {x: 47.295776, y: -18.933228}
+        - {x: 47.295776, y: 42.066772}
+        - {x: 28.295776, y: 52.066772}
+    - name: PC Computer - Braid - Tim_111
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 549
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.45227, y: 54.380768}
+        - {x: -31.54773, y: 54.380768}
+        - {x: -40.54773, y: 34.380768}
+        - {x: -47.54773, y: -7.619232}
+        - {x: -47.54773, y: -47.619232}
+        - {x: -39.54773, y: -52.619232}
+        - {x: 32.45227, y: -52.619232}
+        - {x: 49.45227, y: -6.619232}
+        - {x: 49.45227, y: 46.380768}
+    - name: PC Computer - Braid - Tim_112
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 545
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.833008, y: 55.124817}
+        - {x: -45.833008, y: 19.124817}
+        - {x: -45.833008, y: -47.875183}
+        - {x: -38.833008, y: -52.875183}
+        - {x: -32.833008, y: -53.875183}
+        - {x: 22.166992, y: -53.875183}
+        - {x: 35.166992, y: -37.875183}
+        - {x: 46.166992, y: -12.875183}
+        - {x: 46.166992, y: 41.124817}
+        - {x: 40.166992, y: 55.124817}
+    - name: PC Computer - Braid - Tim_113
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 545
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.560425, y: 54.124817}
+        - {x: -45.560425, y: 30.124817}
+        - {x: -45.560425, y: -47.875183}
+        - {x: -25.560425, y: -52.875183}
+        - {x: 41.439575, y: -52.875183}
+        - {x: 47.439575, y: -25.875183}
+        - {x: 47.439575, y: 54.124817}
+    - name: PC Computer - Braid - Tim_114
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 416
+        width: 86
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.366455, y: 72.620026}
+        - {x: -35.366455, y: -71.379974}
+        - {x: 35.633545, y: -71.379974}
+        - {x: 35.633545, y: 72.620026}
+    - name: PC Computer - Braid - Tim_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 370
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.044514, y: 56.176483}
+        - {x: -43.044514, y: 12.176483}
+        - {x: -43.044514, y: -55.823517}
+        - {x: 22.955486, y: -55.823517}
+        - {x: 44.955486, y: -4.823517}
+        - {x: 44.955486, y: 50.176483}
+        - {x: 39.955486, y: 56.176483}
+    - name: PC Computer - Braid - Tim_116
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 370
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.63434, y: 50.176483}
+        - {x: 37.63434, y: 56.176483}
+        - {x: -16.365662, y: 56.176483}
+        - {x: -22.365662, y: 55.176483}
+        - {x: -42.36566, y: 7.176483}
+        - {x: -42.36566, y: -34.823517}
+        - {x: -38.36566, y: -50.823517}
+        - {x: -36.36566, y: -55.823517}
+        - {x: 11.634338, y: -55.823517}
+        - {x: 20.634338, y: -40.823517}
+        - {x: 41.63434, y: 15.176483}
+        - {x: 43.63434, y: 23.176483}
+    - name: PC Computer - Braid - Tim_117
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 370
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.442764, y: 56.676483}
+        - {x: -42.442764, y: 16.676483}
+        - {x: -42.442764, y: -43.323517}
+        - {x: -39.442764, y: -52.323517}
+        - {x: -34.442764, y: -56.323517}
+        - {x: 8.557236, y: -56.323517}
+        - {x: 22.557236, y: -50.323517}
+        - {x: 42.557236, y: -4.323517}
+        - {x: 42.557236, y: 56.676483}
+    - name: PC Computer - Braid - Tim_118
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 370
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.202698, y: 56.176483}
+        - {x: -24.202698, y: 53.176483}
+        - {x: -42.202698, y: 28.176483}
+        - {x: -42.202698, y: -55.823517}
+        - {x: 14.797302, y: -55.823517}
+        - {x: 42.797302, y: -13.823517}
+        - {x: 42.797302, y: 51.176483}
+        - {x: 40.797302, y: 56.176483}
+    - name: PC Computer - Braid - Tim_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 371
+        width: 103
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5238342, y: 56.99048}
+        - {x: -21.523834, y: 47.99048}
+        - {x: -41.523834, y: 6.9904785}
+        - {x: -41.523834, y: -25.009521}
+        - {x: -34.523834, y: -50.00952}
+        - {x: -32.523834, y: -55.00952}
+        - {x: 15.476166, y: -55.00952}
+        - {x: 43.476166, y: -2.0095215}
+        - {x: 43.476166, y: 53.99048}
+        - {x: 41.476166, y: 56.99048}
+    - name: PC Computer - Braid - Tim_120
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 370
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.841003, y: 45.676483}
+        - {x: 38.841003, y: 55.676483}
+        - {x: -18.158997, y: 55.676483}
+        - {x: -43.158997, y: 23.676483}
+        - {x: -43.158997, y: -37.323517}
+        - {x: -33.158997, y: -52.323517}
+        - {x: -27.158997, y: -55.323517}
+        - {x: 2.8410034, y: -55.323517}
+        - {x: 9.841003, y: -53.323517}
+        - {x: 25.841003, y: -40.323517}
+        - {x: 44.841003, y: 2.6764832}
+    - name: PC Computer - Braid - Tim_121
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 370
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.166138, y: 55.676483}
+        - {x: -42.166138, y: 23.676483}
+        - {x: -42.166138, y: -24.323517}
+        - {x: -29.166138, y: -55.323517}
+        - {x: 28.833862, y: -55.323517}
+        - {x: 42.833862, y: -7.323517}
+        - {x: 42.833862, y: 55.676483}
+    - name: PC Computer - Braid - Tim_122
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 370
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.80127, y: 20.676483}
+        - {x: -42.80127, y: -26.323517}
+        - {x: -25.80127, y: -55.323517}
+        - {x: 22.19873, y: -55.323517}
+        - {x: 26.19873, y: -54.323517}
+        - {x: 43.19873, y: -48.323517}
+        - {x: 43.19873, y: 55.676483}
+        - {x: -14.80127, y: 55.676483}
+        - {x: -22.80127, y: 50.676483}
+    - name: PC Computer - Braid - Tim_123
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 370
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.936401, y: 55.676483}
+        - {x: -43.9364, y: 10.676483}
+        - {x: -43.9364, y: -25.323517}
+        - {x: -22.936401, y: -55.323517}
+        - {x: 37.0636, y: -55.323517}
+        - {x: 44.0636, y: -20.323517}
+        - {x: 44.0636, y: 54.676483}
+        - {x: 42.0636, y: 55.676483}
+    - name: PC Computer - Braid - Tim_124
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 371
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.071533, y: 56.49048}
+        - {x: -44.071533, y: 10.4904785}
+        - {x: -44.071533, y: -30.509521}
+        - {x: -25.071533, y: -54.50952}
+        - {x: 9.928467, y: -54.50952}
+        - {x: 33.928467, y: -43.50952}
+        - {x: 45.928467, y: -24.509521}
+        - {x: 45.928467, y: 51.49048}
+        - {x: 43.928467, y: 56.49048}
+    - name: PC Computer - Braid - Tim_125
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 371
+        width: 112
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.636719, y: 56.49048}
+        - {x: -45.63672, y: 3.4904785}
+        - {x: -45.63672, y: -43.50952}
+        - {x: -41.63672, y: -54.50952}
+        - {x: 44.36328, y: -54.50952}
+        - {x: 47.36328, y: -25.509521}
+        - {x: 47.36328, y: 46.49048}
+        - {x: 35.36328, y: 56.49048}
+    - name: PC Computer - Braid - Tim_126
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 371
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.329834, y: 56.49048}
+        - {x: -46.329834, y: 23.490479}
+        - {x: -46.329834, y: -24.509521}
+        - {x: -27.329834, y: -54.50952}
+        - {x: 19.670166, y: -54.50952}
+        - {x: 39.670166, y: -45.50952}
+        - {x: 46.670166, y: -28.509521}
+        - {x: 46.670166, y: 47.49048}
+        - {x: 43.670166, y: 56.49048}
+    - name: PC Computer - Braid - Tim_127
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 370
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.391846, y: 55.676483}
+        - {x: -29.391846, y: 51.676483}
+        - {x: -46.391846, y: 6.676483}
+        - {x: -46.391846, y: -37.323517}
+        - {x: -20.391846, y: -55.323517}
+        - {x: 46.608154, y: -55.323517}
+        - {x: 46.608154, y: 55.676483}
+    - name: PC Computer - Braid - Tim_128
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 370
+        width: 114
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.81079, y: 54.676483}
+        - {x: -19.189209, y: 54.676483}
+        - {x: -26.189209, y: 33.676483}
+        - {x: -46.18921, y: -0.32351685}
+        - {x: -46.18921, y: -35.323517}
+        - {x: -19.189209, y: -54.323517}
+        - {x: 42.81079, y: -54.323517}
+        - {x: 47.81079, y: -37.323517}
+        - {x: 47.81079, y: 53.676483}
+    - name: PC Computer - Braid - Tim_129
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 370
+        width: 116
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.06836, y: 54.676483}
+        - {x: -47.06836, y: 15.676483}
+        - {x: -47.06836, y: -37.323517}
+        - {x: -30.06836, y: -54.323517}
+        - {x: 40.93164, y: -54.323517}
+        - {x: 48.93164, y: -29.323517}
+        - {x: 48.93164, y: 50.676483}
+        - {x: 39.93164, y: 54.676483}
+    - name: PC Computer - Braid - Tim_130
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 468
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_131
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 468
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_132
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 469
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_133
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 469
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_134
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 467
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_135
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_136
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_137
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_138
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 436
+        width: 123
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_139
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 432
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_140
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 436
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_141
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 436
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_142
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 429
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_143
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 432
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_144
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_145
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 436
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_146
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_147
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_148
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 416
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_149
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 420
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_150
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 420
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_151
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 420
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_152
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 416
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_153
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 420
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_154
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 420
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_155
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 420
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_156
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 420
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_157
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 420
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_158
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 420
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Braid - Tim_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.02385, y: 55.751984}
+        - {x: -11.9761505, y: 55.751984}
+        - {x: -26.97615, y: 51.751984}
+        - {x: -43.97615, y: 16.751984}
+        - {x: -43.97615, y: -44.248016}
+        - {x: -37.97615, y: -54.248016}
+        - {x: 0.023849487, y: -54.248016}
+        - {x: 44.02385, y: -28.248016}
+        - {x: 44.02385, y: 37.751984}
+        - {x: 43.02385, y: 41.751984}
+    - name: PC Computer - Braid - Tim_160
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 109
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.239265, y: 53.693954}
+        - {x: -44.239265, y: 28.693954}
+        - {x: -44.239265, y: -48.306046}
+        - {x: -38.239265, y: -53.306046}
+        - {x: -0.23926544, y: -53.306046}
+        - {x: 6.7607346, y: -51.306046}
+        - {x: 43.760735, y: -22.306046}
+        - {x: 44.760735, y: -13.306046}
+        - {x: 44.760735, y: 53.693954}
+    - name: PC Computer - Braid - Tim_161
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 214
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.06041, y: 55.693954}
+        - {x: -28.06041, y: 48.693954}
+        - {x: -45.06041, y: 13.693954}
+        - {x: -45.06041, y: -34.306046}
+        - {x: -40.06041, y: -53.306046}
+        - {x: -37.06041, y: -55.306046}
+        - {x: 6.9395905, y: -55.306046}
+        - {x: 46.93959, y: -26.306046}
+        - {x: 46.93959, y: 44.693954}
+        - {x: 37.93959, y: 55.693954}
+    - name: PC Computer - Braid - Tim_162
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.170105, y: 57.751984}
+        - {x: -48.170105, y: -56.248016}
+        - {x: 10.829895, y: -56.248016}
+        - {x: 16.829895, y: -55.248016}
+        - {x: 49.829895, y: 1.7519836}
+        - {x: 49.829895, y: 35.751984}
+        - {x: 34.829895, y: 57.751984}
+    - name: PC Computer - Braid - Tim_163
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 211
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.221771, y: 57.751984}
+        - {x: -46.22177, y: 30.751984}
+        - {x: -46.22177, y: -51.248016}
+        - {x: -44.22177, y: -56.248016}
+        - {x: 13.778229, y: -56.248016}
+        - {x: 46.77823, y: -10.248016}
+        - {x: 46.77823, y: 51.751984}
+        - {x: 44.77823, y: 57.751984}
+    - name: PC Computer - Braid - Tim_164
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 211
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.391113, y: 57.751984}
+        - {x: -47.391113, y: 17.751984}
+        - {x: -47.391113, y: -34.248016}
+        - {x: -43.391113, y: -56.248016}
+        - {x: 2.6088867, y: -56.248016}
+        - {x: 48.608887, y: -6.2480164}
+        - {x: 48.608887, y: 29.751984}
+        - {x: 43.608887, y: 57.751984}
+    - name: PC Computer - Braid - Tim_165
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 210
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.630371, y: 57.938004}
+        - {x: -45.63037, y: 34.938004}
+        - {x: -45.63037, y: -42.061996}
+        - {x: -39.63037, y: -56.061996}
+        - {x: 15.369629, y: -56.061996}
+        - {x: 47.36963, y: -11.061996}
+        - {x: 47.36963, y: 53.938004}
+        - {x: 33.36963, y: 57.938004}
+    - name: PC Computer - Braid - Tim_166
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 210
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.386353, y: 57.938004}
+        - {x: -23.613647, y: 57.938004}
+        - {x: -42.613647, y: 10.938004}
+        - {x: -42.613647, y: -41.061996}
+        - {x: -33.613647, y: -56.061996}
+        - {x: 26.386353, y: -56.061996}
+        - {x: 43.386353, y: -31.061996}
+        - {x: 43.386353, y: 43.938004}
+    - name: PC Computer - Braid - Tim_167
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 209
+        width: 95
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.6073, y: 55.62401}
+        - {x: -38.6073, y: 50.62401}
+        - {x: -38.6073, y: -55.37599}
+        - {x: 36.3927, y: -55.37599}
+        - {x: 39.3927, y: -36.37599}
+        - {x: 39.3927, y: 55.62401}
+    - name: PC Computer - Braid - Tim_168
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 205
+        width: 92
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.184448, y: 59.868042}
+        - {x: -30.184448, y: 56.868042}
+        - {x: -37.18445, y: 13.868042}
+        - {x: -37.18445, y: -41.131958}
+        - {x: -33.18445, y: -58.131958}
+        - {x: 29.815552, y: -58.131958}
+        - {x: 38.81555, y: -39.131958}
+        - {x: 38.81555, y: 57.868042}
+        - {x: 30.815552, y: 59.868042}
+    - name: PC Computer - Braid - Tim_169
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.366455, y: 43.682037}
+        - {x: 36.366455, y: 59.682037}
+        - {x: -27.633545, y: 59.682037}
+        - {x: -45.633545, y: 52.682037}
+        - {x: -45.633545, y: -38.317963}
+        - {x: -17.633545, y: -58.317963}
+        - {x: 37.366455, y: -58.317963}
+        - {x: 47.366455, y: -49.317963}
+        - {x: 47.366455, y: 26.682037}
+    - name: PC Computer - Braid - Tim_170
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 205
+        width: 114
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.825195, y: 58.368042}
+        - {x: -39.174805, y: 58.368042}
+        - {x: -46.174805, y: 20.368042}
+        - {x: -46.174805, y: -37.631958}
+        - {x: -30.174805, y: -56.631958}
+        - {x: 35.825195, y: -56.631958}
+        - {x: 47.825195, y: -24.631958}
+        - {x: 47.825195, y: 25.368042}
+        - {x: 41.825195, y: 46.368042}
+    - name: PC Computer - Braid - Tim_171
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.716187, y: 57.682037}
+        - {x: -30.716187, y: 56.682037}
+        - {x: -47.716187, y: 22.682037}
+        - {x: -47.716187, y: -29.317963}
+        - {x: -31.716187, y: -56.317963}
+        - {x: 29.283813, y: -56.317963}
+        - {x: 49.283813, y: -31.317963}
+        - {x: 49.283813, y: 27.682037}
+        - {x: 38.283813, y: 57.682037}
+    - name: PC Computer - Braid - Tim_172
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 206
+        width: 115
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.885498, y: 57.682037}
+        - {x: -46.885498, y: 20.682037}
+        - {x: -46.885498, y: -45.317963}
+        - {x: -34.885498, y: -56.317963}
+        - {x: 23.114502, y: -56.317963}
+        - {x: 47.114502, y: -37.317963}
+        - {x: 47.114502, y: 53.682037}
+        - {x: 40.114502, y: 57.682037}
+    - name: PC Computer - Braid - Tim_173
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 209
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.356934, y: 55.62401}
+        - {x: -44.356934, y: 26.624008}
+        - {x: -44.356934, y: -31.375992}
+        - {x: -24.356934, y: -55.37599}
+        - {x: 22.643066, y: -55.37599}
+        - {x: 44.643066, y: -32.37599}
+        - {x: 44.643066, y: 53.62401}
+        - {x: 40.643066, y: 55.62401}
+    - name: PC Computer - Braid - Tim_174
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 208
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.782227, y: 56.310013}
+        - {x: -28.782227, y: 50.310013}
+        - {x: -43.782227, y: 2.3100128}
+        - {x: -43.782227, y: -32.689987}
+        - {x: -30.782227, y: -55.689987}
+        - {x: 21.217773, y: -55.689987}
+        - {x: 24.217773, y: -54.689987}
+        - {x: 44.217773, y: -27.689987}
+        - {x: 44.217773, y: 47.310013}
+        - {x: 32.217773, y: 56.310013}
+    - name: PC Computer - Braid - Tim_175
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 208
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.149414, y: 56.310013}
+        - {x: -28.149414, y: 36.310013}
+        - {x: -43.149414, y: -0.6899872}
+        - {x: -43.149414, y: -25.689987}
+        - {x: -27.149414, y: -52.689987}
+        - {x: -23.149414, y: -55.689987}
+        - {x: 19.850586, y: -55.689987}
+        - {x: 44.850586, y: -35.689987}
+        - {x: 44.850586, y: 55.310013}
+        - {x: 41.850586, y: 56.310013}
+    - name: PC Computer - Braid - Tim_176
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 209
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.272583, y: 55.62401}
+        - {x: -27.272583, y: 52.62401}
+        - {x: -44.272583, y: 9.624008}
+        - {x: -44.272583, y: -24.375992}
+        - {x: -23.272583, y: -55.37599}
+        - {x: 5.727417, y: -55.37599}
+        - {x: 26.727417, y: -49.37599}
+        - {x: 44.727417, y: -22.375992}
+        - {x: 44.727417, y: 53.62401}
+        - {x: 42.727417, y: 55.62401}
+    - name: PC Computer - Braid - Tim_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.69475555, y: -56.638313}
+        - {x: 12.305244, y: -56.638313}
+        - {x: 20.305244, y: -52.638313}
+        - {x: 22.305244, y: -35.638313}
+        - {x: 34.305244, y: 0.3616867}
+        - {x: 34.305244, y: 48.361687}
+        - {x: 29.305244, y: 58.361687}
+        - {x: -21.694756, y: 58.361687}
+        - {x: -33.694756, y: 44.361687}
+        - {x: -33.694756, y: -47.638313}
+        - {x: -28.694756, y: -56.638313}
+        - {x: -5.6947556, y: -56.638313}
+        - {x: -2.6947556, y: -53.638313}
+        - {x: -2.6947556, y: -50.638313}
+        - {x: -2.6947556, y: -52.638313}
+    - name: PC Computer - Braid - Tim_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.621613, y: 57.547695}
+        - {x: -33.621613, y: 55.547695}
+        - {x: -33.621613, y: -22.452305}
+        - {x: -31.621613, y: -38.452305}
+        - {x: -25.621613, y: -57.452305}
+        - {x: 10.378387, y: -57.452305}
+        - {x: 25.378387, y: -42.452305}
+        - {x: 34.378387, y: -0.45230484}
+        - {x: 34.378387, y: 57.547695}
+    - name: PC Computer - Braid - Tim_179
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 79
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.176468, y: 57.547695}
+        - {x: -31.176468, y: 54.547695}
+        - {x: -32.176468, y: 54.547695}
+        - {x: -32.176468, y: -30.452305}
+        - {x: -26.176468, y: -57.452305}
+        - {x: 12.823532, y: -57.452305}
+        - {x: 33.823532, y: -36.452305}
+        - {x: 33.823532, y: 57.547695}
+    - name: PC Computer - Braid - Tim_180
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.789337, y: 57.547695}
+        - {x: -31.789337, y: 43.547695}
+        - {x: -31.789337, y: -27.452305}
+        - {x: -28.789337, y: -57.452305}
+        - {x: 15.210663, y: -57.452305}
+        - {x: 33.210663, y: -33.452305}
+        - {x: 33.210663, y: 56.547695}
+        - {x: 29.210663, y: 57.547695}
+    - name: PC Computer - Braid - Tim_181
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 32
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.274231, y: 57.547695}
+        - {x: -33.27423, y: 52.547695}
+        - {x: -33.27423, y: -49.452305}
+        - {x: -31.274231, y: -57.452305}
+        - {x: 33.72577, y: -57.452305}
+        - {x: 33.72577, y: 57.547695}
+    - name: PC Computer - Braid - Tim_182
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 36
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 56.303658}
+        - {x: -33, y: 49.303658}
+        - {x: -33, y: -55.696342}
+        - {x: 29, y: -55.696342}
+        - {x: 33, y: -31.696342}
+        - {x: 33, y: 56.303658}
+    - name: PC Computer - Braid - Tim_183
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 36
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.112854, y: 56.303658}
+        - {x: -33.112854, y: 52.303658}
+        - {x: -33.112854, y: -39.696342}
+        - {x: -30.112854, y: -55.696342}
+        - {x: 30.887146, y: -55.696342}
+        - {x: 34.887146, y: -45.696342}
+        - {x: 34.887146, y: 54.303658}
+        - {x: 29.887146, y: 56.303658}
+    - name: PC Computer - Braid - Tim_184
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 36
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.655823, y: 57.803658}
+        - {x: -33.655823, y: 53.803658}
+        - {x: -33.655823, y: -41.196342}
+        - {x: -30.655823, y: -57.196342}
+        - {x: 35.344177, y: -57.196342}
+        - {x: 35.344177, y: 57.803658}
+    - name: PC Computer - Braid - Tim_185
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 36
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.82672, y: 57.803658}
+        - {x: -33.82672, y: -57.196342}
+        - {x: 34.17328, y: -57.196342}
+        - {x: 34.17328, y: 57.803658}
+    - name: PC Computer - Braid - Tim_186
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 36
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.357727, y: 57.803658}
+        - {x: -36.357727, y: -57.196342}
+        - {x: 28.642273, y: -57.196342}
+        - {x: 37.642273, y: -36.196342}
+        - {x: 37.642273, y: 49.803658}
+        - {x: 28.642273, y: 57.803658}
+    - name: PC Computer - Braid - Tim_187
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 36
+        width: 87
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.702698, y: 56.303658}
+        - {x: -35.702698, y: 43.303658}
+        - {x: -35.702698, y: -55.696342}
+        - {x: 31.297302, y: -55.696342}
+        - {x: 36.297302, y: -49.696342}
+        - {x: 36.297302, y: 51.303658}
+        - {x: 34.297302, y: 56.303658}
+    - name: PC Computer - Braid - Tim_188
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 36
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.245605, y: 57.803658}
+        - {x: -34.245605, y: 53.803658}
+        - {x: -34.245605, y: -57.196342}
+        - {x: 29.754395, y: -57.196342}
+        - {x: 34.754395, y: -53.196342}
+        - {x: 34.754395, y: 57.803658}
+    - name: PC Computer - Braid - Tim_189
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 36
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.846558, y: 57.803658}
+        - {x: -33.846558, y: 39.803658}
+        - {x: -33.846558, y: -56.196342}
+        - {x: -31.846558, y: -57.196342}
+        - {x: 35.153442, y: -57.196342}
+        - {x: 35.153442, y: 56.803658}
+        - {x: 31.153442, y: 57.803658}
+    - name: PC Computer - Braid - Tim_190
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 36
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.982544, y: 50.303658}
+        - {x: 31.982544, y: 56.303658}
+        - {x: -21.017456, y: 56.303658}
+        - {x: -33.017456, y: 40.303658}
+        - {x: -33.017456, y: -55.696342}
+        - {x: 32.982544, y: -55.696342}
+        - {x: 34.982544, y: -31.696342}
+    - name: PC Computer - Braid - Tim_191
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 44
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.744873, y: 55.315582}
+        - {x: -23.255127, y: 55.315582}
+        - {x: -35.255127, y: 32.315582}
+        - {x: -35.255127, y: -52.684418}
+        - {x: -32.255127, y: -53.684418}
+        - {x: 23.744873, y: -53.684418}
+        - {x: 35.744873, y: -27.684418}
+        - {x: 35.744873, y: 48.315582}
+    - name: PC Computer - Braid - Tim_192
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 44
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.817993, y: 55.815582}
+        - {x: -19.182007, y: 55.815582}
+        - {x: -27.182007, y: 52.815582}
+        - {x: -34.182007, y: 15.815582}
+        - {x: -34.182007, y: -50.184418}
+        - {x: -31.182007, y: -54.184418}
+        - {x: 19.817993, y: -54.184418}
+        - {x: 28.817993, y: -52.184418}
+        - {x: 34.817993, y: -13.184418}
+        - {x: 34.817993, y: 45.815582}
+    - name: PC Computer - Braid - Tim_193
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.294922, y: 55.815582}
+        - {x: -35.29492, y: 30.815582}
+        - {x: -35.29492, y: -54.184418}
+        - {x: 20.705078, y: -54.184418}
+        - {x: 26.705078, y: -52.184418}
+        - {x: 35.70508, y: -1.1844177}
+        - {x: 35.70508, y: 43.815582}
+        - {x: 21.705078, y: 55.815582}
+    - name: PC Computer - Braid - Tim_194
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 44
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.40625, y: 55.815582}
+        - {x: -17.59375, y: 55.815582}
+        - {x: -34.59375, y: 41.815582}
+        - {x: -34.59375, y: -53.184418}
+        - {x: -30.59375, y: -54.184418}
+        - {x: 29.40625, y: -54.184418}
+        - {x: 36.40625, y: -29.184418}
+        - {x: 36.40625, y: 50.815582}
+    - name: PC Computer - Braid - Tim_195
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 44
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.165405, y: 45.815582}
+        - {x: 31.165405, y: 55.815582}
+        - {x: -15.834595, y: 55.815582}
+        - {x: -33.834595, y: 38.815582}
+        - {x: -34.834595, y: 18.815582}
+        - {x: -34.834595, y: -50.184418}
+        - {x: -27.834595, y: -54.184418}
+        - {x: 20.165405, y: -54.184418}
+        - {x: 25.165405, y: -50.184418}
+        - {x: 35.165405, y: -19.184418}
+    - name: PC Computer - Braid - Tim_196
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.563599, y: 55.815582}
+        - {x: -34.5636, y: 33.815582}
+        - {x: -34.5636, y: -54.184418}
+        - {x: 32.4364, y: -54.184418}
+        - {x: 36.4364, y: -34.184418}
+        - {x: 36.4364, y: 51.815582}
+        - {x: 28.436401, y: 55.815582}
+    - name: PC Computer - Braid - Tim_197
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.490479, y: 55.815582}
+        - {x: -35.49048, y: 46.815582}
+        - {x: -35.49048, y: -54.184418}
+        - {x: 27.509521, y: -54.184418}
+        - {x: 35.50952, y: -11.184418}
+        - {x: 35.50952, y: 53.815582}
+        - {x: 33.50952, y: 55.815582}
+    - name: PC Computer - Braid - Tim_198
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 44
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.533325, y: 55.815582}
+        - {x: -34.533325, y: 33.815582}
+        - {x: -34.533325, y: -52.184418}
+        - {x: -30.533325, y: -54.184418}
+        - {x: 24.466675, y: -54.184418}
+        - {x: 36.466675, y: -43.184418}
+        - {x: 36.466675, y: 55.815582}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
